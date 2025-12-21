@@ -1,0 +1,5 @@
+{
+  "jest.runMode": "on-demand",
+  "editor.snippetSuggestions": "top",
+  "editor.tabCompletion": "on"
+}
