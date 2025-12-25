@@ -1,4 +1,4 @@
-import { MathUtil } from "../src/math-util";
+import { MathUtil } from "../../src/math-util";
 
 describe("Namespace", () => {
   it("should support", () => {
